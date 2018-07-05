@@ -10,5 +10,10 @@ package grupal2;
  * @author Jairo
  */
 public class Registros {
-    
+//Atributos de la clase
+    String nombres;
+    String apellidos;
+    int edad;
+    double calificacion1;
+    double calificacion2;
 }
